@@ -4,6 +4,14 @@
 
 Bilingual help and concise privacy information for Turnnote, maintained by inspiration-fan.
 
+## 公开链接 / Public links
+
+- [隐私说明 / Privacy](PRIVACY.md)
+- [支持说明 / Support](SUPPORT.md)
+
+上面链接可直接访问。独立网页地址需启用 GitHub Pages 后使用。
+The links above work now; the standalone site URLs below require GitHub Pages.
+
 ## 页面 / Pages
 
 GitHub Pages 启用后使用以下地址 / Available at these addresses once GitHub Pages is enabled:
